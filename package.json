@@ -1,0 +1,18 @@
+{
+  "name": "demothreejs",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^4.4.0"
+  },
+  "dependencies": {
+    "gh-pages": "^5.0.0",
+    "three": "^0.154.0"
+  }
+}
